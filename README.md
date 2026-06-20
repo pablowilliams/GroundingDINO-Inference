@@ -99,3 +99,9 @@ https://github.com/IDEA-Research/GroundingDINO
 ## Important Announcement
 
 This is just the beginning of the project. More options and features may be provided in the future.
+
+## Notes & Local Extensions
+
+- Cloned for local experimentation with zero-shot detection prompts on custom image sets.
+- Next steps: wrap the inference script in a small CLI flag for batch folders and log per-box confidence to CSV.
+- Credit: original work by [HassanBinHaroon](https://github.com/HassanBinHaroon/GroundingDINO-Inference). This README section documents downstream exploration only.
